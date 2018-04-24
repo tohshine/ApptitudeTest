@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Aptitude Test</string>
+    <string name="Question1">1. OOU was establishes at what year</string>
+    <string name="Question1_choice1">1994</string>
+    <string name="Question1_choice2">1990</string>
+    <string name="Question1_choice3">1982</string>
+    <string name="Question1_choice4">2001</string>
+
+    <string name="Question2">2. Which of the following is not part animal cell</string>
+    <string name="Question2_choice1">chloroplast</string>
+    <string name="Question2_choice2">nucleous</string>
+    <string name="Question2_choice3">cytoplasm</string>
+    <string name="Question2_choice4">cell wall</string>
+
+    <string name="Question3">3. plant manufacture their food in the process of_____</string>
+
+    <string name="Question4">4. How many years is Nigeria now.</string>
+    <string name="Question4_choice1">30</string>
+    <string name="Question4_choice2">45</string>
+    <string name="Question4_choice3">40</string>
+    <string name="Question4_choice4">52</string>
+
+    <string name="Question5">5. The name of FEG 405 lecturer is ?</string>
+    <string name="Question5_choice1">Dr; adeyemi</string>
+    <string name="Question5_choice2">Engr;collins</string>
+    <string name="Question5_choice3">Engr; Dammy</string>
+    <string name="Question5_choice4">Engr;Sanui</string>
+
+    <string name="Question6">6. Which of the following is not part of computer hardware</string>
+    <string name="Question6_choice1">Rom</string>
+    <string name="Question6_choice2">Ram</string>
+    <string name="Question6_choice3">hard disc</string>
+    <string name="Question6_choice4">cassette</string>
+
+    <string name="Question7">7. How many colours is nigeria flag.</string>
+    <string name="Question7_choice1">3</string>
+    <string name="Question7_choice2">8</string>
+    <string name="Question7_choice3">2</string>
+    <string name="Question7_choice4">1</string>
+
+    <string name="Question8">8. Drinking of water aid_____</string>
+    <string name="Question8_choice1">respirtion</string>
+    <string name="Question8_choice2">Excretion</string>
+    <string name="Question8_choice3">Digestion</string>
+    <string name="Question8_choice4">osmosis</string>
+
+    <string name="Question9">9. what is the name of computer HOD?</string>
+    <string name="Question10">10. Movement of water molecules in osmosis is through____</string>
+    <string name="submit_answer">Submit Answer</string>
+
+
+
+
+
+
+
+
+</resources>

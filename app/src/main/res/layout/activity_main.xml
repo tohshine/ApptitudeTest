@@ -1,0 +1,92 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+   android:maxWidth="24dp"
+    android:maxHeight="24dp"
+    android:padding="10dp"
+    android:id="@+id/layout"
+   android:background="@drawable/grad"
+    android:orientation="vertical"
+
+    >
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="2017/2018 post utme apptitude test examination"
+        android:layout_gravity="center"
+        android:textColor="#ffff"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:layout_marginTop="10dp"
+        android:textAlignment="center"
+        />
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:src="@drawable/logo"
+        android:elevation="3dp"
+        android:background="@android:color/transparent"
+        android:scaleType="fitXY"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_margin="30dp"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@drawable/stroke">
+       <EditText
+           android:id="@+id/nameInput"
+           android:layout_width="match_parent"
+           android:background="@drawable/rec"
+           android:layout_height="50dp"
+           android:layout_margin="10dp"
+           android:hint="Enter your first name"
+           android:textAlignment="center"
+        android:textColorHint="#090404"
+           android:inputType="textPersonName"/>
+
+        <EditText
+            android:id="@+id/matricInput"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+           android:layout_marginTop="10dp"
+            android:layout_margin="10dp"
+            android:background="@drawable/rec"
+            android:hint="Enter last four matric digit "
+            android:textAlignment="center"
+            android:inputType="number"
+            android:padding="8dp"
+
+            android:textColorHint="#100c0c"/>
+
+    </LinearLayout>
+
+    />
+    <Button
+        android:id="@+id/buttonClick"
+        android:layout_width="150dp"
+        android:layout_gravity="center"
+        android:layout_height="wrap_content"
+        android:text="Start"
+        android:drawableEnd="@drawable/ic_arrow_forward_black_24dp"
+        android:textColor="#ffff"
+        android:background="@drawable/rec1"
+        android:onClick="click"/>
+
+    <View
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#b2ade1"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="All right reserved : Feg 405 project"
+        android:textColor="#ffff"
+        android:textSize="10dp"
+        android:textAlignment="center"/>
+
+
+
+</LinearLayout>
+
